@@ -1,1 +1,73 @@
-
+{
+  "CircuitTable": {
+    "Circuits": [
+      {
+        "circuitId": "albert_park",
+        "circuitTurns": "16",
+        "circuitRecordRace": "1.21.164 (L. Hamilton, 2018)",
+        "circuitLength": "5.28Km"
+        "turns": {
+        "turn_1": "Jones",
+        "turn_2": "Brabham",
+        "turn_3": "Aughtie Drive",
+        "turn_4": "Sports Centre",
+        "turn_5": "Hellas",
+        "turn_6": "Whiteford",
+        "turn_7": "Marina",
+        "turn_8": "Lauda",
+        "turn_9": "Clark",
+        "turn_10": "Waite",
+        "turn_11": "Hill",
+        "turn_12": "Ascari",
+        "turn_13": "Ross Gregory Drive",
+        "turn_14": "Stewart",
+        "turn_15": "Senna",
+        "turn_16": "Prost"
+        }
+      },
+      {
+        "circuitId": "red_bull_ring",
+        "circuitTurns": "10",
+        "circuitRecordRace": "1’03.130 (Valtteri Bottas, 2018)",
+        "circuitLength": "4.32Km"
+        "turns": {
+        "turn_1": "Niki Lauda Kurve",
+        "turn_2": "Remus",
+        "turn_3": "Schlossgold",
+        "turn_4": "Rauch",
+        "turn_5": "T5",
+        "turn_6": "Pirelli",
+        "turn_7": "T7",
+        "turn_8": "Voestalpine",
+        "turn_9": "Rindt",
+        "turn_10": "Red Bull Mobile "
+      },
+      {
+        "circuitId": "siverstone",
+        "circuitTurns": "18",
+        "circuitRecordRace": "1.27.097 (M. Verstappen, 2020)",
+        "circuitLength": "5.28Km"
+        "turns": {
+        "turn_1": "Abbey",
+        "turn_2": "Farm",
+        "turn_3": "Village",
+        "turn_4": "The Loop",
+        "turn_5": "Aintree",
+        "turn_6": "Brookands",
+        "turn_7": "Brookands",
+        "turn_8": "Luffield",
+        "turn_9": "Woodcote",
+        "turn_10": "Copse",
+        "turn_11": "Maggotts",
+        "turn_12": "Maggotts",
+        "turn_13": "Becketts",
+        "turn_14": "Becketts",
+        "turn_15": "Chapel",
+        "turn_16": "Stowe"
+        "turn_17": "Vale",
+        "turn_18": "Club"
+        }
+      },
+    ]
+  }
+}
