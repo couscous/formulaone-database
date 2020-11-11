@@ -1,8 +1,21 @@
 # Circuits
-This folder will contains all circuits images of F1.
-Track stroke width must be 10 and in pitlane must be 6.
+This folder contains tracks svgs and the databses that has a lot of information
+about the many circuits that F1 had been in his history.
+At the moment, in the database there are information for 
 
-- Monza
+  - Silverstone
+  - Portimao
+  - Monza
+  - Mugello
+  - Imola 
+  - Red Bull Ring
+  - Bahrain
+  - Abu Dhabi
+  - Albert Park
+  - Istanbul Racing Circuit
+  - Sochi
+  - Spa Francorchamps
+  - Hungaroring
 
-## Credits
-All the images are taken from the Wikipedia pages related to the circuit
+# License
+All the tracks present in this repo are made by us.
