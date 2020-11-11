@@ -4,7 +4,6 @@ about the many circuits that F1 had been in his history.
 At the moment, in the database there are information for 
 
   - Silverstone
-  - Portimao
   - Monza
   - Mugello
   - Imola 
@@ -16,6 +15,7 @@ At the moment, in the database there are information for
   - Sochi
   - Spa Francorchamps
   - Hungaroring
+  - Catalunya
 
 # License
 All the tracks present in this repo are made by us.
