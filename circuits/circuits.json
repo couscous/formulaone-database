@@ -334,6 +334,77 @@
           "turn_19": "Chicane",
           "turn_20": "Chicane"
         }
+      }, 
+      {
+        "circuitId": "sepang",
+        "circuitTurns": "15",
+        "circuitRecordRace": "1.30.7 (L. Hamilton, 2017)",
+        "circuitLength": "5.54Km",
+        "turns": {
+          "turn_1": "Pangkour Lake chicane",
+          "turn_2": "Pangkour Lake chicane",
+          "turn_3": "T3",
+          "turn_4": "Langkawi",
+          "turn_5": "T5",
+          "turn_6": "Gentig",
+          "turn_7": "T7",
+          "turn_8": "Klia",
+          "turn_9": "Berjaya Tioman",
+          "turn_10": "Kenyir Lake 1",
+          "turn_11": "Kenyir Lake 2",
+          "turn_12": "T12",
+          "turn_13": "Sunway Lagoon 1",
+          "turn_14": "Sunway Lagoon 2",
+          "turn_15": "Hairpin"
+        }
+      }, 
+      {
+        "circuitId": "monaco",
+        "circuitTurns": "19",
+        "circuitRecordRace": "1.10.1 (L. Hamilton, 2019)",
+        "circuitLength": "3.33Km",
+        "turns": {
+          "turn_1": "Sainte Devote",
+          "turn_2": "Beau Rivage",
+          "turn_3": "Massenet",
+          "turn_4": "Casino",
+          "turn_5": "Mirabeau Haute",
+          "turn_6": "Grand Hotel Hairpin",
+          "turn_7": "Mirabeau Bas",
+          "turn_8": "Portier",
+          "turn_9": "Nouvelle Chicane",
+          "turn_10": "Nouvelle Chicane",
+          "turn_12": "Tabac",
+          "turn_13": "Louis Chiron",
+          "turn_14": "Piscine 1",
+          "turn_15": "Piscine 2",
+          "turn_16": "Piscine 3",
+          "turn_17": "La Rascasse",
+          "turn_18": "Anthony Noghes 1",
+          "turn_19": "Anthony Noghes 2"
+        }
+      },
+      {
+        "circuitId": "portimao",
+        "circuitTurns": "15",
+        "circuitRecordRace": "1.16.625 (L. Hamilton, 2019)",
+        "circuitLength": "4.65Km",
+        "turns": {
+          "turn_1": "Primeira",
+          "turn_2": "T2",
+          "turn_3": "Lagos",
+          "turn_4": "T4",
+          "turn_5": "Torre Vip",
+          "turn_6": "T6",
+          "turn_7": "T7",
+          "turn_8": "Samsung",
+          "turn_9": "Craig Jones",
+          "turn_10": "Portimao",
+          "turn_12": "T11",
+          "turn_13": "T12",
+          "turn_14": "Sagres",
+          "turn_15": "Galp"
+        }
       }
     ]
   }
