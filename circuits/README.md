@@ -19,6 +19,7 @@ At the moment, informations are available for these circuits:
   - Monaco
   - Sepang 
   - Portimao
+  - Nurburgring 
 
 # License
 All the tracks present here are made by us.
