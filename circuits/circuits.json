@@ -239,7 +239,7 @@
       {
         "circuitId": "nurburgring",
         "circuitTurns": "15",
-        "circuitRecordRace": "1.28.139 (M. Verstappen, 2020)",
+        "circuitRecordRace": "1.25.269 (V. Bottas, 2020)",
         "circuitLength": "5.14Km",
         "turns": {
           "turn_1": "T1",
