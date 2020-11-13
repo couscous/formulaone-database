@@ -1,0 +1,27 @@
+{
+    "NewsTable": {
+        "News": [
+            {
+                "title": "",
+                "text": "",
+                "time": "",
+                "id": "news_01"
+            }
+        ],
+        "Announcements": [
+            {
+                "title": "",
+                "text": "",
+                "range": "",
+                "isPermanent": ""
+            }
+        ],
+        "Changelogs": [
+            {
+                "version": "",
+                "text": "",
+                "required": ""
+            }
+        ]
+    }
+}
