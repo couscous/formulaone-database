@@ -11,9 +11,17 @@
         "Announcements": [
             {
                 "title": "",
+                "titleColor": "",
+                "titleSize": "",
+                "titleStyle": "",
                 "text": "",
+                "textColor": "",
+                "textSize": "",
+                "textStyle": "",
                 "range": "",
-                "isPermanent": ""
+                "isPermanent": "",
+                "background": ""
+                
             }
         ],
         "Changelogs": [
