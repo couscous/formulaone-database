@@ -557,6 +557,84 @@
           "turn_12": "T12",
           "turn_13": "T13"
         }
+      },
+      {
+        "circuitId": "ain-diab",
+        "circuitTurns": "14",
+        "circuitRecordRace": "2'22\"500 (S. Moss, 1958)",
+        "circuitLength": "7.60Km",
+        "turns": {
+          "turn_1": "Ain Diab Corner",
+          "turn_2": "Boulevard Panoramique",
+          "turn_3": "T3",
+          "turn_4": "T4",
+          "turn_5": "T5",
+          "turn_6": "Boulevard Alexandre Corner",
+          "turn_7": "T7",
+          "turn_8": "Azemmour Casablanca Road",
+          "turn_9": "T9",
+          "turn_10": "Azemmour Road Curve",
+          "turn_11": "T11",
+          "turn_12": "Sidi Abderhaman Curve",
+          "turn_13": "T13",
+          "turn_14": "Coast Road"
+        }
+      },
+      {
+        "circuitId": "americas",
+        "circuitTurns": "20",
+        "circuitRecordRace": "1'32\"029 (V. Bottas, 2019)",
+        "circuitLength": "5.51Km",
+        "turns": {
+          "turn_1": "T1",
+          "turn_2": "T2",
+          "turn_3": "T3",
+          "turn_4": "T4",
+          "turn_5": "T5",
+          "turn_6": "T6",
+          "turn_7": "T7",
+          "turn_8": "T8",
+          "turn_9": "T9",
+          "turn_10": "T10",
+          "turn_11": "T11",
+          "turn_12": "T12",
+          "turn_13": "T13",
+          "turn_14": "T14",
+          "turn_15": "T15",
+          "turn_16": "T16",
+          "turn_17": "T17",
+          "turn_18": "T18",
+          "turn_19": "T19",
+          "turn_20": "T20"
+        }
+      },
+      {
+        "circuitId": "anderstorp",
+        "circuitTurns": "8",
+        "circuitRecordRace": "1'24\"836 (N. Lauda, 1978)",
+        "circuitLength": "4.03Km",
+        "turns": {
+          "turn_1": "Start Kurvan",
+          "turn_2": "Opel",
+          "turn_3": "Hansen",
+          "turn_4": "Karusell",
+          "turn_5": "Gislaved",
+          "turn_6": "Södra",
+          "turn_7": "Norra",
+          "turn_8": "Läktar"
+        }  
+      },
+      {
+        "circuitId": "avus",
+        "circuitTurns": "4",
+        "circuitRecordRace": "2'04\"500 (T. Brooks, 1959)",
+        "circuitLength": "8.30Km",
+        "turns": {
+          "turn_1": "Südschleife",
+          "turn_2": "T2",
+          "turn_3": "Nordschleife",
+          "turn_4": "T4"
+        }
       }
     ]
   }
