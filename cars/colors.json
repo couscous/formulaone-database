@@ -1,11 +1,50 @@
 {
-    "ColorsTable": {
-        "Colors": [
-            {
-                "constructor": "",
-                "color1": "",
-                "color2": ""
-            }   
-        ]
-    } 
+   "ColorsTable":{
+      "Colors":[
+         {
+            "2019":[
+               {
+                  "constructor":"mercedes",
+                  "color":"#00D2BE"
+               },
+               {
+                  "constructor":"ferrari",
+                  "color":"#DC0000"
+               },
+               {
+                  "constructor":"redbull-racing",
+                  "color":"#1E41FF"
+               },
+               {
+                  "constructor":"renault",
+                  "color":"#FFF500"
+               },
+               {
+                  "constructor":"haas",
+                  "color":"#F0D787"
+               },
+               {
+                  "constructor":"racing-point",
+                  "color":"#F596C8"
+               },
+               {
+                  "constructor":"toro-rosso",
+                  "color":"#469BFF"
+               },
+               {
+                  "constructor":"mclaren",
+                  "color":"#FF8700"
+               },
+               {
+                  "constructor":"alfa-romeo-racing",
+                  "color":"#9B0000"
+               },
+               {
+                  "constructor":"williams",
+                  "color":"#ffffff"
+               }
+            ]
+         }
+      ]
+   }
 }
