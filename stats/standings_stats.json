@@ -1,0 +1,7638 @@
+{
+   "StatsTable": {
+      "StatsList": [
+         {
+            "driverId": "abate",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962-1963"
+         },
+         {
+            "driverId": "abecassis",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1952"
+         },
+         {
+            "driverId": "acheson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1983-1985"
+         },
+         {
+            "driverId": "adams",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1994"
+         },
+         {
+            "driverId": "ader",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "adolff",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "agabashian",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.5",
+            "seasons": "1950-1957"
+         },
+         {
+            "driverId": "ahrens",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967-1968"
+         },
+         {
+            "driverId": "albers",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "2005-2007"
+         },
+         {
+            "driverId": "albon",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "92.0",
+            "seasons": "2019"
+         },
+         {
+            "driverId": "alboreto",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "5",
+            "points": "186.5",
+            "seasons": "1981-1994"
+         },
+         {
+            "driverId": "alesi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "241.0",
+            "seasons": "1989-2001"
+         },
+         {
+            "driverId": "alguersuari",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "31.0",
+            "seasons": "2009-2011"
+         },
+         {
+            "driverId": "alliot",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "7.0",
+            "seasons": "1984-1994"
+         },
+         {
+            "driverId": "allison",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "11.0",
+            "seasons": "1958-1961"
+         },
+         {
+            "driverId": "alonso",
+            "pos1": "2",
+            "pos2": "3",
+            "pos3": "1",
+            "wins": "32",
+            "points": "1899.0",
+            "seasons": "2001-2018"
+         },
+         {
+            "driverId": "amati",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": ""
+         },
+         {
+            "driverId": "amick",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1960"
+         },
+         {
+            "driverId": "george_amick",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "amon",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "83.0",
+            "seasons": "1963-1976"
+         },
+         {
+            "driverId": "anderson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.0",
+            "seasons": "1963-1967"
+         },
+         {
+            "driverId": "andersson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1977"
+         },
+         {
+            "driverId": "andretti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "7.0",
+            "seasons": "1993"
+         },
+         {
+            "driverId": "mario_andretti",
+            "pos1": "1",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "12",
+            "points": "180.0",
+            "seasons": "1968-1982"
+         },
+         {
+            "driverId": "andrews",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955-1956"
+         },
+         {
+            "driverId": "apicella",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": ""
+         },
+         {
+            "driverId": "armi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "arnold",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "arnoux",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "7",
+            "points": "181.0",
+            "seasons": "1978-1989"
+         },
+         {
+            "driverId": "arundell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "12.0",
+            "seasons": "1962-1966"
+         },
+         {
+            "driverId": "ascari",
+            "pos1": "2",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "13",
+            "points": "107.5",
+            "seasons": "1950-1955"
+         },
+         {
+            "driverId": "ashdown",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "ashley",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974-1977"
+         },
+         {
+            "driverId": "ashmore",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961-1962"
+         },
+         {
+            "driverId": "aston",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "attwood",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "11.0",
+            "seasons": "1964-1969"
+         },
+         {
+            "driverId": "ayulo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1951-1954"
+         },
+         {
+            "driverId": "badoer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1993-2009"
+         },
+         {
+            "driverId": "baghetti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "14.0",
+            "seasons": "1961-1967"
+         },
+         {
+            "driverId": "bailey",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1988-1991"
+         },
+         {
+            "driverId": "baldi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "1982-1985"
+         },
+         {
+            "driverId": "ball",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1951-1952"
+         },
+         {
+            "driverId": "balsa",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "bandini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "58.0",
+            "seasons": "1961-1967"
+         },
+         {
+            "driverId": "banks",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1952"
+         },
+         {
+            "driverId": "barbazza",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1991-1993"
+         },
+         {
+            "driverId": "barber",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1971-1972"
+         },
+         {
+            "driverId": "john_barber",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "barilla",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1989-1990"
+         },
+         {
+            "driverId": "barrichello",
+            "pos1": "0",
+            "pos2": "2",
+            "pos3": "2",
+            "wins": "11",
+            "points": "658.0",
+            "seasons": "1993-2011"
+         },
+         {
+            "driverId": "bartels",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1991"
+         },
+         {
+            "driverId": "barth",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1964"
+         },
+         {
+            "driverId": "bassi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965"
+         },
+         {
+            "driverId": "bauer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "baumgartner",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "2003-2004"
+         },
+         {
+            "driverId": "bayol",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1952-1956"
+         },
+         {
+            "driverId": "beauman",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "bechem",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1953"
+         },
+         {
+            "driverId": "behra",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "51.0",
+            "seasons": "1952-1959"
+         },
+         {
+            "driverId": "bell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1968-1974"
+         },
+         {
+            "driverId": "bellof",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1984-1985"
+         },
+         {
+            "driverId": "belmondo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1992-1994"
+         },
+         {
+            "driverId": "belso",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974"
+         },
+         {
+            "driverId": "beltoise",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "77.0",
+            "seasons": "1967-1974"
+         },
+         {
+            "driverId": "beretta",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1994"
+         },
+         {
+            "driverId": "berg",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1986"
+         },
+         {
+            "driverId": "berger",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "2",
+            "wins": "10",
+            "points": "385.0",
+            "seasons": "1984-1997"
+         },
+         {
+            "driverId": "georges_berger",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1954"
+         },
+         {
+            "driverId": "bernard",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "10.0",
+            "seasons": "1989-1994"
+         },
+         {
+            "driverId": "bernoldi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2001-2002"
+         },
+         {
+            "driverId": "bertaggia",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1989"
+         },
+         {
+            "driverId": "bettenhausen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "11.0",
+            "seasons": "1950-1960"
+         },
+         {
+            "driverId": "beuttler",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1971-1973"
+         },
+         {
+            "driverId": "bianchi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "1959-1968"
+         },
+         {
+            "driverId": "jules_bianchi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "2013-2014"
+         },
+         {
+            "driverId": "bianco",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "binder",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1978"
+         },
+         {
+            "driverId": "biondetti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "bira",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.0",
+            "seasons": "1950-1954"
+         },
+         {
+            "driverId": "birger",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1955"
+         },
+         {
+            "driverId": "bisch",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "blanchard",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "bleekemolen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977-1978"
+         },
+         {
+            "driverId": "blignaut",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965"
+         },
+         {
+            "driverId": "blokdyk",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963-1965"
+         },
+         {
+            "driverId": "blundell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "32.0",
+            "seasons": "1991-1995"
+         },
+         {
+            "driverId": "boesel",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1982-1983"
+         },
+         {
+            "driverId": "boffa",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961"
+         },
+         {
+            "driverId": "bondurant",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1965-1966"
+         },
+         {
+            "driverId": "bonetto",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "17.5",
+            "seasons": "1950-1953"
+         },
+         {
+            "driverId": "bonnier",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "39.0",
+            "seasons": "1956-1971"
+         },
+         {
+            "driverId": "bonomi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "bordeu",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961"
+         },
+         {
+            "driverId": "borgudd",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1981-1982"
+         },
+         {
+            "driverId": "botha",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967"
+         },
+         {
+            "driverId": "bottas",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "1",
+            "wins": "7",
+            "points": "1289.0",
+            "seasons": "2013-2019"
+         },
+         {
+            "driverId": "boullion",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1995"
+         },
+         {
+            "driverId": "bourdais",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "2008-2009"
+         },
+         {
+            "driverId": "boutsen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "3",
+            "points": "132.0",
+            "seasons": "1983-1993"
+         },
+         {
+            "driverId": "boyd",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1955-1960"
+         },
+         {
+            "driverId": "brabham",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1990-1994"
+         },
+         {
+            "driverId": "gary_brabham",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1990"
+         },
+         {
+            "driverId": "jack_brabham",
+            "pos1": "3",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "14",
+            "points": "253.0",
+            "seasons": "1955-1970"
+         },
+         {
+            "driverId": "brack",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1968-1972"
+         },
+         {
+            "driverId": "brambilla",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "15.5",
+            "seasons": "1974-1980"
+         },
+         {
+            "driverId": "ernesto_brambilla",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963"
+         },
+         {
+            "driverId": "branca",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "brancatelli",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1979"
+         },
+         {
+            "driverId": "brandon",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1954"
+         },
+         {
+            "driverId": "branson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1959-1960"
+         },
+         {
+            "driverId": "bridger",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "brise",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1975"
+         },
+         {
+            "driverId": "bristow",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1960"
+         },
+         {
+            "driverId": "broeker",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963"
+         },
+         {
+            "driverId": "brooks",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "1",
+            "wins": "6",
+            "points": "75.0",
+            "seasons": "1956-1961"
+         },
+         {
+            "driverId": "brown",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976"
+         },
+         {
+            "driverId": "alan_brown",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1952-1954"
+         },
+         {
+            "driverId": "walt_brown",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "brudes",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "brundle",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "98.0",
+            "seasons": "1984-1996"
+         },
+         {
+            "driverId": "bruni",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2004"
+         },
+         {
+            "driverId": "bryan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "18.0",
+            "seasons": "1952-1960"
+         },
+         {
+            "driverId": "bucci",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954-1955"
+         },
+         {
+            "driverId": "bucknum",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1964-1966"
+         },
+         {
+            "driverId": "bueb",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957-1959"
+         },
+         {
+            "driverId": "buemi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "29.0",
+            "seasons": "2009-2011"
+         },
+         {
+            "driverId": "bueno",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1973"
+         },
+         {
+            "driverId": "burgess",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958-1963"
+         },
+         {
+            "driverId": "burti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2000-2001"
+         },
+         {
+            "driverId": "bussinello",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961-1965"
+         },
+         {
+            "driverId": "button",
+            "pos1": "1",
+            "pos2": "1",
+            "pos3": "1",
+            "wins": "15",
+            "points": "1235.0",
+            "seasons": "2000-2017"
+         },
+         {
+            "driverId": "byrne",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1982"
+         },
+         {
+            "driverId": "cabantous",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "1950-1953"
+         },
+         {
+            "driverId": "cabianca",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1958-1960"
+         },
+         {
+            "driverId": "cabral",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1964"
+         },
+         {
+            "driverId": "cade",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "caffi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "1986-1991"
+         },
+         {
+            "driverId": "campbell-jones",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961-1963"
+         },
+         {
+            "driverId": "campos",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1987-1988"
+         },
+         {
+            "driverId": "Cannoc",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1971"
+         },
+         {
+            "driverId": "cantoni",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "cantrell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "capelli",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "31.0",
+            "seasons": "1985-1992"
+         },
+         {
+            "driverId": "carini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1953"
+         },
+         {
+            "driverId": "darter",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.5",
+            "seasons": "1950-1960"
+         },
+         {
+            "driverId": "castellotti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "0",
+            "points": "19.5",
+            "seasons": "1955-1957"
+         },
+         {
+            "driverId": "cecotto",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1983-1984"
+         },
+         {
+            "driverId": "cevert",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "1",
+            "points": "89.0",
+            "seasons": "1970-1973"
+         },
+         {
+            "driverId": "chaboud",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "chamberlain",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "chandhok",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2010-2011"
+         },
+         {
+            "driverId": "chapman",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956"
+         },
+         {
+            "driverId": "charlton",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965-1975"
+         },
+         {
+            "driverId": "chaves",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1991"
+         },
+         {
+            "driverId": "cheesbourg",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957-1959"
+         },
+         {
+            "driverId": "cheever",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "70.0",
+            "seasons": "1978-1989"
+         },
+         {
+            "driverId": "chiesa",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": ""
+         },
+         {
+            "driverId": "chilton",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2013-2014"
+         },
+         {
+            "driverId": "chimeri",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "chiron",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1950-1958"
+         },
+         {
+            "driverId": "chitwood",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "christie",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956-1960"
+         },
+         {
+            "driverId": "claes",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1955"
+         },
+         {
+            "driverId": "clapham",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965"
+         },
+         {
+            "driverId": "clark",
+            "pos1": "2",
+            "pos2": "1",
+            "pos3": "2",
+            "wins": "25",
+            "points": "255.0",
+            "seasons": "1960-1968"
+         },
+         {
+            "driverId": "cogan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1980-1981"
+         },
+         {
+            "driverId": "collins",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "3",
+            "points": "47.0",
+            "seasons": "1952-1958"
+         },
+         {
+            "driverId": "collomb",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961-1964"
+         },
+         {
+            "driverId": "colombo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1978"
+         },
+         {
+            "driverId": "comas",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "7.0",
+            "seasons": "1991-1994"
+         },
+         {
+            "driverId": "comotti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1952"
+         },
+         {
+            "driverId": "george_connor",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1952"
+         },
+         {
+            "driverId": "constantine",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "cordts",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1969"
+         },
+         {
+            "driverId": "coulthard",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "4",
+            "wins": "13",
+            "points": "535.0",
+            "seasons": "1994-2008"
+         },
+         {
+            "driverId": "courage",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "20.0",
+            "seasons": "1967-1970"
+         },
+         {
+            "driverId": "craft",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1971"
+         },
+         {
+            "driverId": "crawford",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975"
+         },
+         {
+            "driverId": "ray_crawford",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955-1959"
+         },
+         {
+            "driverId": "crespo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "creus",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "crockett",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "crook",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1953"
+         },
+         {
+            "driverId": "cross",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.0",
+            "seasons": "1952-1955"
+         },
+         {
+            "driverId": "crossley",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "cruz",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "ambrosio",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2011-2012"
+         },
+         {
+            "driverId": "orey",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "matta",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "13.0",
+            "seasons": "2003-2004"
+         },
+         {
+            "driverId": "ramos",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1955-1956"
+         },
+         {
+            "driverId": "daigh",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "dalmas",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1987-1994"
+         },
+         {
+            "driverId": "daly",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "15.0",
+            "seasons": "1978-1982"
+         },
+         {
+            "driverId": "danner",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1985-1989"
+         },
+         {
+            "driverId": "daponte",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "davidson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2007-2008"
+         },
+         {
+            "driverId": "davies",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1950-1955"
+         },
+         {
+            "driverId": "davis",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1962"
+         },
+         {
+            "driverId": "daywalt",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1959"
+         },
+         {
+            "driverId": "adamich",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "1968-1973"
+         },
+         {
+            "driverId": "angelis",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "2",
+            "points": "122.0",
+            "seasons": "1979-1986"
+         },
+         {
+            "driverId": "beaufort",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1957-1964"
+         },
+         {
+            "driverId": "cesaris",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "59.0",
+            "seasons": "1980-1994"
+         },
+         {
+            "driverId": "Changy",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "dryver",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977"
+         },
+         {
+            "driverId": "filippis",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958-1959"
+         },
+         {
+            "driverId": "graffenried",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "9.0",
+            "seasons": "1950-1956"
+         },
+         {
+            "driverId": "klerk",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963-1970"
+         },
+         {
+            "driverId": "rosa",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "35.0",
+            "seasons": "1999-2012"
+         },
+         {
+            "driverId": "portago",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1956-1957"
+         },
+         {
+            "driverId": "riu",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "terra",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1953"
+         },
+         {
+            "driverId": "tomaso",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957-1959"
+         },
+         {
+            "driverId": "tornaco",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "villota",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1982"
+         },
+         {
+            "driverId": "vos",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963"
+         },
+         {
+            "driverId": "deletraz",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1994-1995"
+         },
+         {
+            "driverId": "depailler",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "2",
+            "points": "139.0",
+            "seasons": "1972-1980"
+         },
+         {
+            "driverId": "grassi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2010"
+         },
+         {
+            "driverId": "resta",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "121.0",
+            "seasons": "2011-2017"
+         },
+         {
+            "driverId": "diniz",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "10.0",
+            "seasons": "1995-2000"
+         },
+         {
+            "driverId": "dinsmore",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1956"
+         },
+         {
+            "driverId": "dochnal",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963"
+         },
+         {
+            "driverId": "dolhem",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974"
+         },
+         {
+            "driverId": "donnelly",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1989-1990"
+         },
+         {
+            "driverId": "donohue",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.0",
+            "seasons": "1971-1975"
+         },
+         {
+            "driverId": "doornbos",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2005-2006"
+         },
+         {
+            "driverId": "downing",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "drake",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "driver",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963-1974"
+         },
+         {
+            "driverId": "drogo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "duke",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961"
+         },
+         {
+            "driverId": "dumfries",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1986"
+         },
+         {
+            "driverId": "duncan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "dusio",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "eaton",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1969-1971"
+         },
+         {
+            "driverId": "ecclestone",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "edmunds",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957"
+         },
+         {
+            "driverId": "edwards",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974-1977"
+         },
+         {
+            "driverId": "elford",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.0",
+            "seasons": "1968-1971"
+         },
+         {
+            "driverId": "elisian",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954-1958"
+         },
+         {
+            "driverId": "emery",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956-1958"
+         },
+         {
+            "driverId": "enge",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2001"
+         },
+         {
+            "driverId": "england",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957"
+         },
+         {
+            "driverId": "ericsson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "18.0",
+            "seasons": "2014-2018"
+         },
+         {
+            "driverId": "ertl",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975-1980"
+         },
+         {
+            "driverId": "estefano",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960-1963"
+         },
+         {
+            "driverId": "etancelin",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1950-1952"
+         },
+         {
+            "driverId": "evans",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975-1976"
+         },
+         {
+            "driverId": "fabi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "23.0",
+            "seasons": "1982-1987"
+         },
+         {
+            "driverId": "corrado_fabi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1983-1984"
+         },
+         {
+            "driverId": "fabre",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1987"
+         },
+         {
+            "driverId": "facetti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974"
+         },
+         {
+            "driverId": "fagioli",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "1",
+            "points": "28.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "fairman",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "1953-1961"
+         },
+         {
+            "driverId": "fangio",
+            "pos1": "5",
+            "pos2": "2",
+            "pos3": "0",
+            "wins": "24",
+            "points": "245.0",
+            "seasons": "1950-1958"
+         },
+         {
+            "driverId": "farina",
+            "pos1": "1",
+            "pos2": "1",
+            "pos3": "1",
+            "wins": "5",
+            "points": "115.33",
+            "seasons": "1950-1955"
+         },
+         {
+            "driverId": "faulkner",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1950-1955"
+         },
+         {
+            "driverId": "firman",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "2003"
+         },
+         {
+            "driverId": "fischer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "10.0",
+            "seasons": "1951-1952"
+         },
+         {
+            "driverId": "fisher",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967"
+         },
+         {
+            "driverId": "fisichella",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "3",
+            "points": "275.0",
+            "seasons": "1996-2009"
+         },
+         {
+            "driverId": "fitch",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1955"
+         },
+         {
+            "driverId": "fittipaldi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "12.0",
+            "seasons": "1992-1994"
+         },
+         {
+            "driverId": "emerson_fittipaldi",
+            "pos1": "2",
+            "pos2": "2",
+            "pos3": "0",
+            "wins": "14",
+            "points": "281.0",
+            "seasons": "1970-1980"
+         },
+         {
+            "driverId": "wilson_fittipaldi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1972-1975"
+         },
+         {
+            "driverId": "fitzau",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "flaherty",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "8.0",
+            "seasons": "1950-1959"
+         },
+         {
+            "driverId": "flinterman",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "flockhart",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "1954-1960"
+         },
+         {
+            "driverId": "fohr",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "foitek",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1989-1990"
+         },
+         {
+            "driverId": "follmer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "1973"
+         },
+         {
+            "driverId": "fonder",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1954"
+         },
+         {
+            "driverId": "fontana",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1997"
+         },
+         {
+            "driverId": "fontes",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "forberg",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951"
+         },
+         {
+            "driverId": "force",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1960"
+         },
+         {
+            "driverId": "forini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1987"
+         },
+         {
+            "driverId": "parker",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951"
+         },
+         {
+            "driverId": "foyt",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958-1960"
+         },
+         {
+            "driverId": "gimax",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1978"
+         },
+         {
+            "driverId": "francia",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977-1981"
+         },
+         {
+            "driverId": "freeland",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1953-1960"
+         },
+         {
+            "driverId": "frentzen",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "1",
+            "wins": "3",
+            "points": "174.0",
+            "seasons": "1994-2003"
+         },
+         {
+            "driverId": "frere",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "11.0",
+            "seasons": "1952-1956"
+         },
+         {
+            "driverId": "friesacher",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "2005"
+         },
+         {
+            "driverId": "fry",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "fushida",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975"
+         },
+         {
+            "driverId": "gabbiani",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1978-1981"
+         },
+         {
+            "driverId": "gachot",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "1989-1995"
+         },
+         {
+            "driverId": "gaillard",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1979"
+         },
+         {
+            "driverId": "galica",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1978"
+         },
+         {
+            "driverId": "galli",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1970-1973"
+         },
+         {
+            "driverId": "galvez",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "gamble",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "ganley",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "10.0",
+            "seasons": "1971-1974"
+         },
+         {
+            "driverId": "gardner",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1964-1968"
+         },
+         {
+            "driverId": "garrett",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956-1958"
+         },
+         {
+            "driverId": "gartner",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1984"
+         },
+         {
+            "driverId": "gasly",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "124.0",
+            "seasons": "2017-2019"
+         },
+         {
+            "driverId": "gaze",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "gendebien",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "18.0",
+            "seasons": "1956-1961"
+         },
+         {
+            "driverId": "gene",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "1999-2004"
+         },
+         {
+            "driverId": "george",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957"
+         },
+         {
+            "driverId": "gerard",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1957"
+         },
+         {
+            "driverId": "gerini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.5",
+            "seasons": "1956-1958"
+         },
+         {
+            "driverId": "gethin",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "11.0",
+            "seasons": "1970-1974"
+         },
+         {
+            "driverId": "ghinzani",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1981-1989"
+         },
+         {
+            "driverId": "giacomelli",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "14.0",
+            "seasons": "1977-1990"
+         },
+         {
+            "driverId": "gibson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957-1958"
+         },
+         {
+            "driverId": "ginther",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "1",
+            "points": "102.0",
+            "seasons": "1960-1967"
+         },
+         {
+            "driverId": "giovinazzi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "14.0",
+            "seasons": "2017-2019"
+         },
+         {
+            "driverId": "giunti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1970"
+         },
+         {
+            "driverId": "glock",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "51.0",
+            "seasons": "2004-2012"
+         },
+         {
+            "driverId": "godia",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "1951-1958"
+         },
+         {
+            "driverId": "goethals",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "goldsmith",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "1958-1960"
+         },
+         {
+            "driverId": "gonzalez",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "1",
+            "wins": "2",
+            "points": "72.14",
+            "seasons": "1950-1960"
+         },
+         {
+            "driverId": "oscar_gonzalez",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956"
+         },
+         {
+            "driverId": "gordini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951"
+         },
+         {
+            "driverId": "gould",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1954-1960"
+         },
+         {
+            "driverId": "gounon",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1994"
+         },
+         {
+            "driverId": "green",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "greene",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1962"
+         },
+         {
+            "driverId": "gregory",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "21.0",
+            "seasons": "1957-1965"
+         },
+         {
+            "driverId": "griffith",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1956"
+         },
+         {
+            "driverId": "grignard",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951"
+         },
+         {
+            "driverId": "grim",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1960"
+         },
+         {
+            "driverId": "grosjean",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "389.0",
+            "seasons": "2009-2019"
+         },
+         {
+            "driverId": "grouillard",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1989-1992"
+         },
+         {
+            "driverId": "gubby",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965"
+         },
+         {
+            "driverId": "guelfi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "guerra",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1981"
+         },
+         {
+            "driverId": "guerrero",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1982-1983"
+         },
+         {
+            "driverId": "gugelmin",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "10.0",
+            "seasons": "1988-1992"
+         },
+         {
+            "driverId": "gurney",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "4",
+            "points": "133.0",
+            "seasons": "1959-1970"
+         },
+         {
+            "driverId": "gutierrez",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "2013-2016"
+         },
+         {
+            "driverId": "hahne",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967-1970"
+         },
+         {
+            "driverId": "hailwood",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "29.0",
+            "seasons": "1963-1974"
+         },
+         {
+            "driverId": "hakkinen",
+            "pos1": "2",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "20",
+            "points": "420.0",
+            "seasons": "1991-2001"
+         },
+         {
+            "driverId": "halford",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956-1960"
+         },
+         {
+            "driverId": "hall",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1960-1963"
+         },
+         {
+            "driverId": "hamilton",
+            "pos1": "6",
+            "pos2": "2",
+            "pos3": "0",
+            "wins": "84",
+            "points": "3431.0",
+            "seasons": "2007-2019"
+         },
+         {
+            "driverId": "duncan_hamilton",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1953"
+         },
+         {
+            "driverId": "hampshire",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "hanks",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "20.0",
+            "seasons": "1950-1957"
+         },
+         {
+            "driverId": "hansgen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1961-1964"
+         },
+         {
+            "driverId": "harris",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "harrison",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "hart",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967"
+         },
+         {
+            "driverId": "hartley",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1960"
+         },
+         {
+            "driverId": "brendon_hartley",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "2017-2018"
+         },
+         {
+            "driverId": "haryanto",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2016"
+         },
+         {
+            "driverId": "hasemi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976"
+         },
+         {
+            "driverId": "hattori",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1991"
+         },
+         {
+            "driverId": "hawkins",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965"
+         },
+         {
+            "driverId": "hawthorn",
+            "pos1": "1",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "3",
+            "points": "112.64",
+            "seasons": "1952-1958"
+         },
+         {
+            "driverId": "heeks",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1953"
+         },
+         {
+            "driverId": "heidfeld",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "259.0",
+            "seasons": "2000-2011"
+         },
+         {
+            "driverId": "helfrich",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1954"
+         },
+         {
+            "driverId": "hellings",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "henton",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975-1982"
+         },
+         {
+            "driverId": "herbert",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "3",
+            "points": "98.0",
+            "seasons": "1989-2000"
+         },
+         {
+            "driverId": "herman",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955-1960"
+         },
+         {
+            "driverId": "herrmann",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "10.0",
+            "seasons": "1953-1961"
+         },
+         {
+            "driverId": "hesnault",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1984-1985"
+         },
+         {
+            "driverId": "heyer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977"
+         },
+         {
+            "driverId": "damon_hill",
+            "pos1": "1",
+            "pos2": "2",
+            "pos3": "1",
+            "wins": "22",
+            "points": "360.0",
+            "seasons": "1992-1999"
+         },
+         {
+            "driverId": "hill",
+            "pos1": "2",
+            "pos2": "3",
+            "pos3": "0",
+            "wins": "14",
+            "points": "270.0",
+            "seasons": "1958-1975"
+         },
+         {
+            "driverId": "phil_hill",
+            "pos1": "1",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "3",
+            "points": "94.0",
+            "seasons": "1958-1966"
+         },
+         {
+            "driverId": "hirt",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1953"
+         },
+         {
+            "driverId": "hobbs",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967-1974"
+         },
+         {
+            "driverId": "hocking",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "hoffmann",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1977"
+         },
+         {
+            "driverId": "holland",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "1950-1953"
+         },
+         {
+            "driverId": "holmes",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1953"
+         },
+         {
+            "driverId": "homeier",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1954-1960"
+         },
+         {
+            "driverId": "hoshino",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1977"
+         },
+         {
+            "driverId": "hoyt",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1955"
+         },
+         {
+            "driverId": "hulkenberg",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "511.0",
+            "seasons": "2010-2019"
+         },
+         {
+            "driverId": "hulme",
+            "pos1": "1",
+            "pos2": "0",
+            "pos3": "2",
+            "wins": "8",
+            "points": "248.0",
+            "seasons": "1965-1974"
+         },
+         {
+            "driverId": "hunt",
+            "pos1": "1",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "10",
+            "points": "179.0",
+            "seasons": "1973-1979"
+         },
+         {
+            "driverId": "hurtubise",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "hutchison",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1970"
+         },
+         {
+            "driverId": "ickx",
+            "pos1": "0",
+            "pos2": "2",
+            "pos3": "0",
+            "wins": "8",
+            "points": "181.0",
+            "seasons": "1967-1979"
+         },
+         {
+            "driverId": "ide",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2006"
+         },
+         {
+            "driverId": "iglesias",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955"
+         },
+         {
+            "driverId": "inoue",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1994-1995"
+         },
+         {
+            "driverId": "ireland",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "47.0",
+            "seasons": "1959-1966"
+         },
+         {
+            "driverId": "irvine",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "4",
+            "points": "191.0",
+            "seasons": "1993-2002"
+         },
+         {
+            "driverId": "irwin",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1966-1967"
+         },
+         {
+            "driverId": "jabouille",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "2",
+            "points": "21.0",
+            "seasons": "1974-1981"
+         },
+         {
+            "driverId": "jackson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1954"
+         },
+         {
+            "driverId": "james",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1952"
+         },
+         {
+            "driverId": "john_james",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951"
+         },
+         {
+            "driverId": "jarier",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "31.5",
+            "seasons": "1971-1983"
+         },
+         {
+            "driverId": "lehto",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "10.0",
+            "seasons": "1989-1994"
+         },
+         {
+            "driverId": "jean",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1971"
+         },
+         {
+            "driverId": "johansson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "88.0",
+            "seasons": "1980-1991"
+         },
+         {
+            "driverId": "johnson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1952-1960"
+         },
+         {
+            "driverId": "leslie_johnson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "johnstone",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "jones",
+            "pos1": "1",
+            "pos2": "0",
+            "pos3": "2",
+            "wins": "12",
+            "points": "199.0",
+            "seasons": "1975-1986"
+         },
+         {
+            "driverId": "tom_jones",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967"
+         },
+         {
+            "driverId": "jover",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951"
+         },
+         {
+            "driverId": "karch",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "karthikeyan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "2005-2012"
+         },
+         {
+            "driverId": "katayama",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "1992-1997"
+         },
+         {
+            "driverId": "kavanagh",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "keegan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977-1982"
+         },
+         {
+            "driverId": "keizan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1973-1975"
+         },
+         {
+            "driverId": "keller",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955-1959"
+         },
+         {
+            "driverId": "kelly",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "kennedy",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1980"
+         },
+         {
+            "driverId": "kessel",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1977"
+         },
+         {
+            "driverId": "kessler",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "kiesa",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2003"
+         },
+         {
+            "driverId": "kinnunen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974"
+         },
+         {
+            "driverId": "kladis",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "klenk",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "klien",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "14.0",
+            "seasons": "2004-2010"
+         },
+         {
+            "driverId": "kling",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "17.0",
+            "seasons": "1954-1955"
+         },
+         {
+            "driverId": "klodwig",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1953"
+         },
+         {
+            "driverId": "kobayashi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "125.0",
+            "seasons": "2009-2014"
+         },
+         {
+            "driverId": "koinigg",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974"
+         },
+         {
+            "driverId": "kovalainen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "105.0",
+            "seasons": "2007-2013"
+         },
+         {
+            "driverId": "kozarowitzky",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977"
+         },
+         {
+            "driverId": "krause",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1953"
+         },
+         {
+            "driverId": "kubica",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "274.0",
+            "seasons": "2006-2019"
+         },
+         {
+            "driverId": "kuhnke",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962-1963"
+         },
+         {
+            "driverId": "kvyat",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "170.0",
+            "seasons": "2014-2019"
+         },
+         {
+            "driverId": "la_caze",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "laffite",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "6",
+            "points": "228.0",
+            "seasons": "1974-1986"
+         },
+         {
+            "driverId": "lagorce",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1994"
+         },
+         {
+            "driverId": "lammers",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1979-1992"
+         },
+         {
+            "driverId": "lamy",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1993-1996"
+         },
+         {
+            "driverId": "landi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.5",
+            "seasons": "1951-1956"
+         },
+         {
+            "driverId": "lang",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1953-1954"
+         },
+         {
+            "driverId": "langes",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1990"
+         },
+         {
+            "driverId": "larini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "7.0",
+            "seasons": "1987-1997"
+         },
+         {
+            "driverId": "larrauri",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1988-1989"
+         },
+         {
+            "driverId": "larreta",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "larrousse",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974"
+         },
+         {
+            "driverId": "larson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958-1959"
+         },
+         {
+            "driverId": "latifi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": ""
+         },
+         {
+            "driverId": "lauda",
+            "pos1": "3",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "25",
+            "points": "420.5",
+            "seasons": "1971-1985"
+         },
+         {
+            "driverId": "laurent",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "lavaggi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1996"
+         },
+         {
+            "driverId": "lawrence",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1966"
+         },
+         {
+            "driverId": "leclerc",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "2",
+            "points": "303.0",
+            "seasons": "2018-2019"
+         },
+         {
+            "driverId": "leclere",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975-1976"
+         },
+         {
+            "driverId": "lederle",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1962-1965"
+         },
+         {
+            "driverId": "lees",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1978-1982"
+         },
+         {
+            "driverId": "legat",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1953"
+         },
+         {
+            "driverId": "leoni",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977-1978"
+         },
+         {
+            "driverId": "leston",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956-1957"
+         },
+         {
+            "driverId": "levegh",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "levrett",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "lewis",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1961-1962"
+         },
+         {
+            "driverId": "lewis-evans",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "16.0",
+            "seasons": "1957-1958"
+         },
+         {
+            "driverId": "ligier",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1966-1967"
+         },
+         {
+            "driverId": "linden",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "1951-1957"
+         },
+         {
+            "driverId": "lippi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961-1963"
+         },
+         {
+            "driverId": "liuzzi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "26.0",
+            "seasons": "2005-2011"
+         },
+         {
+            "driverId": "lombardi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.5",
+            "seasons": "1974-1976"
+         },
+         {
+            "driverId": "londono",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1981"
+         },
+         {
+            "driverId": "loof",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "lotterer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2014"
+         },
+         {
+            "driverId": "louveau",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "love",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "1962-1972"
+         },
+         {
+            "driverId": "lovely",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1971"
+         },
+         {
+            "driverId": "loyer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "lucas",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955"
+         },
+         {
+            "driverId": "lucienbonnet",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "lunger",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975-1978"
+         },
+         {
+            "driverId": "hayje",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1977"
+         },
+         {
+            "driverId": "macdowel",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957"
+         },
+         {
+            "driverId": "mackay-fraser",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957"
+         },
+         {
+            "driverId": "mackey",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951"
+         },
+         {
+            "driverId": "macklin",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1955"
+         },
+         {
+            "driverId": "magee",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975-1976"
+         },
+         {
+            "driverId": "maggs",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "26.0",
+            "seasons": "1961-1965"
+         },
+         {
+            "driverId": "magill",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957-1959"
+         },
+         {
+            "driverId": "maglioli",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.33",
+            "seasons": "1953-1957"
+         },
+         {
+            "driverId": "magnussen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1995-1998"
+         },
+         {
+            "driverId": "kevin_magnussen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "157.0",
+            "seasons": "2014-2019"
+         },
+         {
+            "driverId": "mairesse",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "7.0",
+            "seasons": "1960-1963"
+         },
+         {
+            "driverId": "guy_mairesse",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "maldonado",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "76.0",
+            "seasons": "2011-2015"
+         },
+         {
+            "driverId": "mansell",
+            "pos1": "1",
+            "pos2": "3",
+            "pos3": "0",
+            "wins": "31",
+            "points": "480.0",
+            "seasons": "1980-1995"
+         },
+         {
+            "driverId": "mantovani",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1953-1955"
+         },
+         {
+            "driverId": "mantz",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "manzon",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "16.0",
+            "seasons": "1950-1956"
+         },
+         {
+            "driverId": "marimon",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.14",
+            "seasons": "1951-1954"
+         },
+         {
+            "driverId": "marko",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1971-1972"
+         },
+         {
+            "driverId": "marques",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1997-2001"
+         },
+         {
+            "driverId": "marr",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954-1955"
+         },
+         {
+            "driverId": "marsh",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957-1962"
+         },
+         {
+            "driverId": "martin",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "martini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "18.0",
+            "seasons": "1984-1995"
+         },
+         {
+            "driverId": "mass",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "71.0",
+            "seasons": "1973-1982"
+         },
+         {
+            "driverId": "massa",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "1",
+            "wins": "11",
+            "points": "1167.0",
+            "seasons": "2002-2017"
+         },
+         {
+            "driverId": "may",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961"
+         },
+         {
+            "driverId": "mayer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "mazet",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1971"
+         },
+         {
+            "driverId": "mazzacane",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2000-2001"
+         },
+         {
+            "driverId": "mcalpine",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1955"
+         },
+         {
+            "driverId": "mccarthy",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": ""
+         },
+         {
+            "driverId": "mccoy",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1954"
+         },
+         {
+            "driverId": "mcdowell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1952"
+         },
+         {
+            "driverId": "mcgrath",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "9.0",
+            "seasons": "1950-1955"
+         },
+         {
+            "driverId": "mcguire",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977"
+         },
+         {
+            "driverId": "mclaren",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "2",
+            "wins": "4",
+            "points": "188.5",
+            "seasons": "1958-1970"
+         },
+         {
+            "driverId": "mcnish",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2002"
+         },
+         {
+            "driverId": "mcrae",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1973"
+         },
+         {
+            "driverId": "mcwithey",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1960"
+         },
+         {
+            "driverId": "menditeguy",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "9.0",
+            "seasons": "1953-1960"
+         },
+         {
+            "driverId": "merhi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2015"
+         },
+         {
+            "driverId": "merzario",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "11.0",
+            "seasons": "1972-1979"
+         },
+         {
+            "driverId": "mieres",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "13.0",
+            "seasons": "1953-1955"
+         },
+         {
+            "driverId": "migault",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1972-1975"
+         },
+         {
+            "driverId": "miles",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1969-1970"
+         },
+         {
+            "driverId": "ken_miles",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961"
+         },
+         {
+            "driverId": "milhoux",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956"
+         },
+         {
+            "driverId": "miller",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1952"
+         },
+         {
+            "driverId": "mitter",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1963-1965"
+         },
+         {
+            "driverId": "modena",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "17.0",
+            "seasons": "1987-1992"
+         },
+         {
+            "driverId": "monarch",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963"
+         },
+         {
+            "driverId": "montagny",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2006"
+         },
+         {
+            "driverId": "monteiro",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "7.0",
+            "seasons": "2005-2006"
+         },
+         {
+            "driverId": "montermini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1994-1996"
+         },
+         {
+            "driverId": "monteverdi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961"
+         },
+         {
+            "driverId": "charrington",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "morbidelli",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.5",
+            "seasons": "1990-1997"
+         },
+         {
+            "driverId": "moreno",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "15.0",
+            "seasons": "1982-1995"
+         },
+         {
+            "driverId": "morgan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975"
+         },
+         {
+            "driverId": "moser",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1967-1971"
+         },
+         {
+            "driverId": "moss",
+            "pos1": "0",
+            "pos2": "4",
+            "pos3": "3",
+            "wins": "16",
+            "points": "185.5",
+            "seasons": "1951-1961"
+         },
+         {
+            "driverId": "bill_moss",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "munaron",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "murray",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1952"
+         },
+         {
+            "driverId": "musso",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "1",
+            "points": "44.0",
+            "seasons": "1953-1958"
+         },
+         {
+            "driverId": "nakajima",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "9.0",
+            "seasons": "2007-2009"
+         },
+         {
+            "driverId": "satoru_nakajima",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "16.0",
+            "seasons": "1987-1991"
+         },
+         {
+            "driverId": "nakano",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1997-1998"
+         },
+         {
+            "driverId": "nalon",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1953"
+         },
+         {
+            "driverId": "nannini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "65.0",
+            "seasons": "1986-1990"
+         },
+         {
+            "driverId": "naspetti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1992"
+         },
+         {
+            "driverId": "nasr",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "29.0",
+            "seasons": "2015-2016"
+         },
+         {
+            "driverId": "natili",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961"
+         },
+         {
+            "driverId": "naylor",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957-1961"
+         },
+         {
+            "driverId": "nazaruk",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.0",
+            "seasons": "1951-1954"
+         },
+         {
+            "driverId": "needell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1980"
+         },
+         {
+            "driverId": "nelleman",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976"
+         },
+         {
+            "driverId": "neve",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1977"
+         },
+         {
+            "driverId": "nicholson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974-1975"
+         },
+         {
+            "driverId": "niday",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1955"
+         },
+         {
+            "driverId": "niedermayr",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "niemann",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963-1965"
+         },
+         {
+            "driverId": "nilsson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "31.0",
+            "seasons": "1976-1977"
+         },
+         {
+            "driverId": "noda",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1994"
+         },
+         {
+            "driverId": "norris",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "49.0",
+            "seasons": "2019"
+         },
+         {
+            "driverId": "nuckey",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1954"
+         },
+         {
+            "driverId": "obrien",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "connor",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954-1958"
+         },
+         {
+            "driverId": "ocon",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "136.0",
+            "seasons": "2016-2018"
+         },
+         {
+            "driverId": "oliver",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "13.0",
+            "seasons": "1967-1977"
+         },
+         {
+            "driverId": "ongais",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977-1978"
+         },
+         {
+            "driverId": "owen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "montoya",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "2",
+            "wins": "7",
+            "points": "307.0",
+            "seasons": "2001-2006"
+         },
+         {
+            "driverId": "pace",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "58.0",
+            "seasons": "1972-1977"
+         },
+         {
+            "driverId": "pagani",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "paletti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1982"
+         },
+         {
+            "driverId": "palm",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975"
+         },
+         {
+            "driverId": "palmer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "14.0",
+            "seasons": "1983-1989"
+         },
+         {
+            "driverId": "jolyon_palmer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "9.0",
+            "seasons": "2016-2017"
+         },
+         {
+            "driverId": "panis",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "76.0",
+            "seasons": "1994-2004"
+         },
+         {
+            "driverId": "pantano",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2004"
+         },
+         {
+            "driverId": "papis",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1995"
+         },
+         {
+            "driverId": "parkes",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "14.0",
+            "seasons": "1959-1967"
+         },
+         {
+            "driverId": "parnell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1963"
+         },
+         {
+            "driverId": "reg_parnell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "9.0",
+            "seasons": "1950-1954"
+         },
+         {
+            "driverId": "parsons",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "12.0",
+            "seasons": "1950-1958"
+         },
+         {
+            "driverId": "patrese",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "2",
+            "wins": "6",
+            "points": "281.0",
+            "seasons": "1977-1993"
+         },
+         {
+            "driverId": "pease",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967"
+         },
+         {
+            "driverId": "penske",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961-1962"
+         },
+         {
+            "driverId": "perdisa",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "5.0",
+            "seasons": "1955-1957"
+         },
+         {
+            "driverId": "perez",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "581.0",
+            "seasons": "2011-2019"
+         },
+         {
+            "driverId": "sala",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1988-1989"
+         },
+         {
+            "driverId": "perkins",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974-1977"
+         },
+         {
+            "driverId": "pescarolo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "12.0",
+            "seasons": "1968-1976"
+         },
+         {
+            "driverId": "pesenti_rossi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976"
+         },
+         {
+            "driverId": "peters",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "peterson",
+            "pos1": "0",
+            "pos2": "2",
+            "pos3": "1",
+            "wins": "10",
+            "points": "206.0",
+            "seasons": "1970-1978"
+         },
+         {
+            "driverId": "petrov",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "64.0",
+            "seasons": "2010-2012"
+         },
+         {
+            "driverId": "pian",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "pic",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2012-2013"
+         },
+         {
+            "driverId": "picard",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "pieterse",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962-1965"
+         },
+         {
+            "driverId": "pietsch",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1952"
+         },
+         {
+            "driverId": "pilette",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974-1977"
+         },
+         {
+            "driverId": "andre_pilette",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1951-1964"
+         },
+         {
+            "driverId": "piotti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955-1958"
+         },
+         {
+            "driverId": "piper",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1960"
+         },
+         {
+            "driverId": "piquet",
+            "pos1": "3",
+            "pos2": "1",
+            "pos3": "2",
+            "wins": "23",
+            "points": "481.5",
+            "seasons": "1978-1991"
+         },
+         {
+            "driverId": "piquet_jr",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "19.0",
+            "seasons": "2008-2009"
+         },
+         {
+            "driverId": "pirocchi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961"
+         },
+         {
+            "driverId": "pironi",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "3",
+            "points": "101.0",
+            "seasons": "1978-1982"
+         },
+         {
+            "driverId": "pirro",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1989-1991"
+         },
+         {
+            "driverId": "pizzonia",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.0",
+            "seasons": "2003-2005"
+         },
+         {
+            "driverId": "pollet",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954-1955"
+         },
+         {
+            "driverId": "pon",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "poore",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "posey",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1971-1972"
+         },
+         {
+            "driverId": "pozzi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "pretorius",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965-1973"
+         },
+         {
+            "driverId": "prinoth",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961-1962"
+         },
+         {
+            "driverId": "prophet",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963-1965"
+         },
+         {
+            "driverId": "prost",
+            "pos1": "4",
+            "pos2": "4",
+            "pos3": "0",
+            "wins": "51",
+            "points": "768.5",
+            "seasons": "1980-1993"
+         },
+         {
+            "driverId": "pryce",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "19.0",
+            "seasons": "1974-1977"
+         },
+         {
+            "driverId": "purley",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1973-1977"
+         },
+         {
+            "driverId": "puzey",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965"
+         },
+         {
+            "driverId": "quester",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974"
+         },
+         {
+            "driverId": "raby",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963-1965"
+         },
+         {
+            "driverId": "rahal",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1978"
+         },
+         {
+            "driverId": "raikkonen",
+            "pos1": "1",
+            "pos2": "2",
+            "pos3": "3",
+            "wins": "21",
+            "points": "1859.0",
+            "seasons": "2001-2019"
+         },
+         {
+            "driverId": "raphanel",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1988-1989"
+         },
+         {
+            "driverId": "rathmann",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "29.0",
+            "seasons": "1950-1960"
+         },
+         {
+            "driverId": "dick_rathmann",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1950-1960"
+         },
+         {
+            "driverId": "ratzenberger",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1994"
+         },
+         {
+            "driverId": "rebaque",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "13.0",
+            "seasons": "1977-1981"
+         },
+         {
+            "driverId": "redman",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.0",
+            "seasons": "1968-1974"
+         },
+         {
+            "driverId": "reece",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1958"
+         },
+         {
+            "driverId": "reed",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965"
+         },
+         {
+            "driverId": "rees",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967"
+         },
+         {
+            "driverId": "regazzoni",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "1",
+            "wins": "5",
+            "points": "209.0",
+            "seasons": "1970-1980"
+         },
+         {
+            "driverId": "reutemann",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "3",
+            "wins": "12",
+            "points": "298.0",
+            "seasons": "1972-1982"
+         },
+         {
+            "driverId": "reventlow",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "revson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "2",
+            "points": "61.0",
+            "seasons": "1964-1974"
+         },
+         {
+            "driverId": "rhodes",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965"
+         },
+         {
+            "driverId": "ribeiro",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1979"
+         },
+         {
+            "driverId": "ricciardo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "2",
+            "wins": "7",
+            "points": "1040.0",
+            "seasons": "2011-2019"
+         },
+         {
+            "driverId": "richardson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951"
+         },
+         {
+            "driverId": "riess",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "rigsby",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "rindt",
+            "pos1": "1",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "6",
+            "points": "107.0",
+            "seasons": "1964-1970"
+         },
+         {
+            "driverId": "riseley_prichard",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "robarts",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974"
+         },
+         {
+            "driverId": "rodriguez",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "2",
+            "points": "71.0",
+            "seasons": "1963-1971"
+         },
+         {
+            "driverId": "ricardo_rodriguez",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1961-1962"
+         },
+         {
+            "driverId": "rol",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1952"
+         },
+         {
+            "driverId": "rollinson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1965"
+         },
+         {
+            "driverId": "rolt",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1955"
+         },
+         {
+            "driverId": "roos",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974"
+         },
+         {
+            "driverId": "rosberg",
+            "pos1": "1",
+            "pos2": "2",
+            "pos3": "0",
+            "wins": "23",
+            "points": "1594.5",
+            "seasons": "2006-2016"
+         },
+         {
+            "driverId": "keke_rosberg",
+            "pos1": "1",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "5",
+            "points": "159.5",
+            "seasons": "1978-1986"
+         },
+         {
+            "driverId": "rose",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "rosier",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "18.0",
+            "seasons": "1950-1956"
+         },
+         {
+            "driverId": "rosset",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1996-1998"
+         },
+         {
+            "driverId": "rossi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2015"
+         },
+         {
+            "driverId": "rothengatter",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1984-1986"
+         },
+         {
+            "driverId": "ruby",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960-1961"
+         },
+         {
+            "driverId": "russell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2019"
+         },
+         {
+            "driverId": "geki",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1964-1966"
+         },
+         {
+            "driverId": "russo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955-1960"
+         },
+         {
+            "driverId": "paul_russo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.5",
+            "seasons": "1950-1959"
+         },
+         {
+            "driverId": "ruttman",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "9.5",
+            "seasons": "1950-1960"
+         },
+         {
+            "driverId": "ryan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961"
+         },
+         {
+            "driverId": "sachs",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1957-1960"
+         },
+         {
+            "driverId": "said",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "sainz",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "267.0",
+            "seasons": "2015-2019"
+         },
+         {
+            "driverId": "salazar",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1981-1983"
+         },
+         {
+            "driverId": "salo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "33.0",
+            "seasons": "1994-2002"
+         },
+         {
+            "driverId": "salvadori",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "19.0",
+            "seasons": "1952-1962"
+         },
+         {
+            "driverId": "sanesi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "sarrazin",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": ""
+         },
+         {
+            "driverId": "sato",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "44.0",
+            "seasons": "2002-2008"
+         },
+         {
+            "driverId": "scarborough",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1953"
+         },
+         {
+            "driverId": "scarfiotti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "17.0",
+            "seasons": "1963-1968"
+         },
+         {
+            "driverId": "scarlatti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1956-1961"
+         },
+         {
+            "driverId": "scheckter",
+            "pos1": "1",
+            "pos2": "1",
+            "pos3": "2",
+            "wins": "10",
+            "points": "246.0",
+            "seasons": "1972-1980"
+         },
+         {
+            "driverId": "ian_scheckter",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974-1977"
+         },
+         {
+            "driverId": "schell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "32.0",
+            "seasons": "1950-1960"
+         },
+         {
+            "driverId": "schenken",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "7.0",
+            "seasons": "1970-1974"
+         },
+         {
+            "driverId": "scherrer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "schiattarella",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1994-1995"
+         },
+         {
+            "driverId": "schiller",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "schindler",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1952"
+         },
+         {
+            "driverId": "schlesser",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1983-1988"
+         },
+         {
+            "driverId": "jo_schlesser",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967-1968"
+         },
+         {
+            "driverId": "schneider",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1988-1990"
+         },
+         {
+            "driverId": "schoeller",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "schroeder",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "ralf_schumacher",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "6",
+            "points": "329.0",
+            "seasons": "1997-2007"
+         },
+         {
+            "driverId": "michael_schumacher",
+            "pos1": "7",
+            "pos2": "2",
+            "pos3": "3",
+            "wins": "91",
+            "points": "1566.0",
+            "seasons": "1991-2012"
+         },
+         {
+            "driverId": "schuppan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974-1977"
+         },
+         {
+            "driverId": "bob_scott",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1954"
+         },
+         {
+            "driverId": "scott_Brown",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956"
+         },
+         {
+            "driverId": "scotti",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956"
+         },
+         {
+            "driverId": "seidel",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1962"
+         },
+         {
+            "driverId": "seiffert",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962-1963"
+         },
+         {
+            "driverId": "senna",
+            "pos1": "3",
+            "pos2": "2",
+            "pos3": "1",
+            "wins": "41",
+            "points": "610.0",
+            "seasons": "1984-1994"
+         },
+         {
+            "driverId": "bruno_senna",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "33.0",
+            "seasons": "2010-2012"
+         },
+         {
+            "driverId": "serafini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "serra",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1981-1983"
+         },
+         {
+            "driverId": "serrurier",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962-1965"
+         },
+         {
+            "driverId": "gavin",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "9.0",
+            "seasons": "1967-1970"
+         },
+         {
+            "driverId": "settember",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962-1963"
+         },
+         {
+            "driverId": "sharp",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961-1964"
+         },
+         {
+            "driverId": "shawe_taylor",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "shelby",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958-1959"
+         },
+         {
+            "driverId": "shelly",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "siffert",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "2",
+            "points": "68.0",
+            "seasons": "1962-1971"
+         },
+         {
+            "driverId": "simon",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1957"
+         },
+         {
+            "driverId": "sirotkin",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "2018"
+         },
+         {
+            "driverId": "slotemaker",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "solana",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1963-1968"
+         },
+         {
+            "driverId": "roig",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1970-1972"
+         },
+         {
+            "driverId": "sommer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1950"
+         },
+         {
+            "driverId": "sospiri",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": ""
+         },
+         {
+            "driverId": "south",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1980"
+         },
+         {
+            "driverId": "sparken",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955"
+         },
+         {
+            "driverId": "speed",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2006-2007"
+         },
+         {
+            "driverId": "spence",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "27.0",
+            "seasons": "1963-1968"
+         },
+         {
+            "driverId": "stacey",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958-1960"
+         },
+         {
+            "driverId": "starrabba",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961-1963"
+         },
+         {
+            "driverId": "stevens",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2014-2015"
+         },
+         {
+            "driverId": "stevenson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1960"
+         },
+         {
+            "driverId": "stewart",
+            "pos1": "3",
+            "pos2": "2",
+            "pos3": "1",
+            "wins": "27",
+            "points": "359.0",
+            "seasons": "1965-1973"
+         },
+         {
+            "driverId": "jimmy_stewart",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "ian_stewart",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953"
+         },
+         {
+            "driverId": "stohr",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1981"
+         },
+         {
+            "driverId": "stommelen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "14.0",
+            "seasons": "1970-1978"
+         },
+         {
+            "driverId": "streiff",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "11.0",
+            "seasons": "1984-1988"
+         },
+         {
+            "driverId": "stroll",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "67.0",
+            "seasons": "2017-2019"
+         },
+         {
+            "driverId": "stuck",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "29.0",
+            "seasons": "1974-1979"
+         },
+         {
+            "driverId": "stuppacher",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976"
+         },
+         {
+            "driverId": "sullivan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1983"
+         },
+         {
+            "driverId": "surer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "17.0",
+            "seasons": "1979-1986"
+         },
+         {
+            "driverId": "surtees",
+            "pos1": "1",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "6",
+            "points": "180.0",
+            "seasons": "1960-1972"
+         },
+         {
+            "driverId": "sutcliffe",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977"
+         },
+         {
+            "driverId": "sutil",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "124.0",
+            "seasons": "2007-2014"
+         },
+         {
+            "driverId": "sutton",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958-1960"
+         },
+         {
+            "driverId": "suzuki",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.0",
+            "seasons": "1988-1995"
+         },
+         {
+            "driverId": "toshio_suzuki",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1993"
+         },
+         {
+            "driverId": "swaters",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1951-1954"
+         },
+         {
+            "driverId": "sweikert",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "8.0",
+            "seasons": "1952-1956"
+         },
+         {
+            "driverId": "takagi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1998-1999"
+         },
+         {
+            "driverId": "takahara",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976-1977"
+         },
+         {
+            "driverId": "takahashi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1977"
+         },
+         {
+            "driverId": "tambay",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "2",
+            "points": "103.0",
+            "seasons": "1977-1986"
+         },
+         {
+            "driverId": "taramazzo",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "tarquini",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1987-1995"
+         },
+         {
+            "driverId": "taruffi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "1",
+            "points": "41.0",
+            "seasons": "1950-1956"
+         },
+         {
+            "driverId": "taylor",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1964-1966"
+         },
+         {
+            "driverId": "trevor_taylor",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "8.0",
+            "seasons": "1959-1966"
+         },
+         {
+            "driverId": "henry_taylor",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1959-1961"
+         },
+         {
+            "driverId": "mike_taylor",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959-1960"
+         },
+         {
+            "driverId": "dennis_taylor",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1959"
+         },
+         {
+            "driverId": "teague",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1957"
+         },
+         {
+            "driverId": "templeman",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955-1960"
+         },
+         {
+            "driverId": "testut",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958-1959"
+         },
+         {
+            "driverId": "thackwell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1980-1984"
+         },
+         {
+            "driverId": "thiele",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960-1961"
+         },
+         {
+            "driverId": "thompson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "thomson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "10.0",
+            "seasons": "1953-1960"
+         },
+         {
+            "driverId": "thorne",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "tingelstad",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "tingle",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962-1969"
+         },
+         {
+            "driverId": "titterington",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956"
+         },
+         {
+            "driverId": "tolan",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956-1958"
+         },
+         {
+            "driverId": "trimmer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975-1978"
+         },
+         {
+            "driverId": "trintignant",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "2",
+            "points": "72.33",
+            "seasons": "1950-1964"
+         },
+         {
+            "driverId": "trulli",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "246.5",
+            "seasons": "1997-2011"
+         },
+         {
+            "driverId": "tuero",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1998"
+         },
+         {
+            "driverId": "tunmer",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975"
+         },
+         {
+            "driverId": "turner",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956-1959"
+         },
+         {
+            "driverId": "ulmen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "unser",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1968"
+         },
+         {
+            "driverId": "jerry_unser",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958"
+         },
+         {
+            "driverId": "uria",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955-1956"
+         },
+         {
+            "driverId": "vaccarella",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1961-1965"
+         },
+         {
+            "driverId": "poele",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1991-1992"
+         },
+         {
+            "driverId": "garde",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2013"
+         },
+         {
+            "driverId": "lof",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "vyver",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "lennep",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1971-1975"
+         },
+         {
+            "driverId": "rooyen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1968-1969"
+         },
+         {
+            "driverId": "vandoorne",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "26.0",
+            "seasons": "2016-2018"
+         },
+         {
+            "driverId": "veith",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1956-1960"
+         },
+         {
+            "driverId": "vergne",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "51.0",
+            "seasons": "2012-2014"
+         },
+         {
+            "driverId": "verstappen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "17.0",
+            "seasons": "1994-2003"
+         },
+         {
+            "driverId": "max_verstappen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "8",
+            "points": "948.0",
+            "seasons": "2015-2019"
+         },
+         {
+            "driverId": "vettel",
+            "pos1": "4",
+            "pos2": "3",
+            "pos3": "1",
+            "wins": "53",
+            "points": "2985.0",
+            "seasons": "2007-2019"
+         },
+         {
+            "driverId": "villeneuve",
+            "pos1": "1",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "11",
+            "points": "235.0",
+            "seasons": "1996-2006"
+         },
+         {
+            "driverId": "gilles_villeneuve",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "6",
+            "points": "101.0",
+            "seasons": "1977-1982"
+         },
+         {
+            "driverId": "villeneuve_sr",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1981-1983"
+         },
+         {
+            "driverId": "villoresi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "46.0",
+            "seasons": "1950-1956"
+         },
+         {
+            "driverId": "volonterio",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954-1957"
+         },
+         {
+            "driverId": "opel",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1973-1974"
+         },
+         {
+            "driverId": "hans_stuck",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952-1953"
+         },
+         {
+            "driverId": "trips",
+            "pos1": "0",
+            "pos2": "1",
+            "pos3": "0",
+            "wins": "2",
+            "points": "56.0",
+            "seasons": "1956-1961"
+         },
+         {
+            "driverId": "vonlanthen",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975"
+         },
+         {
+            "driverId": "vukovich",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "2",
+            "points": "19.0",
+            "seasons": "1951-1955"
+         },
+         {
+            "driverId": "wacker",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1953-1954"
+         },
+         {
+            "driverId": "walker",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1971-1972"
+         },
+         {
+            "driverId": "peter_walker",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1955"
+         },
+         {
+            "driverId": "wallard",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "9.0",
+            "seasons": "1950-1951"
+         },
+         {
+            "driverId": "walter",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1962"
+         },
+         {
+            "driverId": "ward",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "1",
+            "points": "14.0",
+            "seasons": "1951-1963"
+         },
+         {
+            "driverId": "warwick",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "71.0",
+            "seasons": "1981-1993"
+         },
+         {
+            "driverId": "watson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "1",
+            "wins": "5",
+            "points": "169.0",
+            "seasons": "1973-1985"
+         },
+         {
+            "driverId": "webb",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1950-1954"
+         },
+         {
+            "driverId": "webber",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "3",
+            "wins": "9",
+            "points": "1047.5",
+            "seasons": "2002-2013"
+         },
+         {
+            "driverId": "wehrlein",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "6.0",
+            "seasons": "2016-2017"
+         },
+         {
+            "driverId": "weidler",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1989"
+         },
+         {
+            "driverId": "weiler",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960"
+         },
+         {
+            "driverId": "wendlinger",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "14.0",
+            "seasons": "1991-1995"
+         },
+         {
+            "driverId": "westbury",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1970"
+         },
+         {
+            "driverId": "weyant",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955-1959"
+         },
+         {
+            "driverId": "wharton",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1952-1955"
+         },
+         {
+            "driverId": "whiteaway",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1955"
+         },
+         {
+            "driverId": "whitehead",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "4.0",
+            "seasons": "1950-1954"
+         },
+         {
+            "driverId": "graham_whitehead",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1952"
+         },
+         {
+            "driverId": "whitehouse",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1954"
+         },
+         {
+            "driverId": "widdows",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1968"
+         },
+         {
+            "driverId": "wietzes",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974"
+         },
+         {
+            "driverId": "wilds",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1974-1976"
+         },
+         {
+            "driverId": "williams",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1967"
+         },
+         {
+            "driverId": "williamson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1973"
+         },
+         {
+            "driverId": "wilson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "2003"
+         },
+         {
+            "driverId": "desire_wilson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1980"
+         },
+         {
+            "driverId": "vic_wilson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1960-1966"
+         },
+         {
+            "driverId": "dempsey_wilson",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1958-1960"
+         },
+         {
+            "driverId": "markus_winkelhock",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": ""
+         },
+         {
+            "driverId": "joachim_winkelhock",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1989"
+         },
+         {
+            "driverId": "manfred_winkelhock",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "2.0",
+            "seasons": "1980-1985"
+         },
+         {
+            "driverId": "wisell",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "13.0",
+            "seasons": "1970-1974"
+         },
+         {
+            "driverId": "wunderink",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1975"
+         },
+         {
+            "driverId": "wurz",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "45.0",
+            "seasons": "1997-2007"
+         },
+         {
+            "driverId": "yamamoto",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2006-2010"
+         },
+         {
+            "driverId": "yoong",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "2001-2002"
+         },
+         {
+            "driverId": "zanardi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1991-1999"
+         },
+         {
+            "driverId": "zapico",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1976"
+         },
+         {
+            "driverId": "zonta",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "3.0",
+            "seasons": "1999-2004"
+         },
+         {
+            "driverId": "zorzi",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "1.0",
+            "seasons": "1975-1977"
+         },
+         {
+            "driverId": "zunino",
+            "pos1": "0",
+            "pos2": "0",
+            "pos3": "0",
+            "wins": "0",
+            "points": "0.0",
+            "seasons": "1979-1981"
+         }
+      ]
+   }
+}
