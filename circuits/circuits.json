@@ -238,6 +238,29 @@
       },
       {
         "circuitId": "nurburgring",
+        "circuitTurns": "160",
+        "circuitRecordRace": "7'06\"400 (V. Bottas, 2020)",
+        "circuitLength": "22.84Km",
+        "turns": {
+          "turn_1": "T1",
+          "turn_2": "Mercedes Arena",
+          "turn_3": "Mercedes Arena",
+          "turn_4": "Mercedes Arena",
+          "turn_5": "T5",
+          "turn_6": "Ford-Kurve",
+          "turn_7": "Dunlop-Kehre",
+          "turn_8": "Michael Schumacher S",
+          "turn_9": "Michael Schumacher S",
+          "turn_10": "RTL Kurve",
+          "turn_11": "Warsteiner Kurve",
+          "turn_12": "ADVAN-Bogen",
+          "turn_13": "NGK Schikane",
+          "turn_14": "NGK Schikane",
+          "turn_15": "Coca Cola Kurve"
+        }
+      },
+      {
+        "circuitId": "nurburgring_strecke",
         "circuitTurns": "15",
         "circuitRecordRace": "1'25\"269 (V. Bottas, 2020)",
         "circuitLength": "5.14Km",
