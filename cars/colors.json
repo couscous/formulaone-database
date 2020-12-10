@@ -9,11 +9,11 @@
                },
                {
                   "constructor":"ferrari",
-                  "color":"#C00000"
+                  "color":"#C80000"
                },
                {
                   "constructor":"redbull-racing",
-                  "color":"#0600EF"
+                  "color":"#1E41FF"
                },
                {
                   "constructor":"renault",
@@ -29,7 +29,7 @@
                },
                {
                   "constructor":"alpha-tauri",
-                  "color":"#C8C8C8"
+                  "color":"#FFFFFF"
                },
                {
                   "constructor":"mclaren",
@@ -37,7 +37,7 @@
                },
                {
                   "constructor":"alfa-romeo-racing",
-                  "color":"#960000"
+                  "color":"#9B0000"
                },
                {
                   "constructor":"williams",
