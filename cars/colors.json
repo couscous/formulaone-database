@@ -2,6 +2,48 @@
    "ColorsTable":{
       "Colors":[
          {
+             "2020":[
+               {
+                  "constructor":"mercedes",
+                  "color":"#00D2BE"
+               },
+               {
+                  "constructor":"ferrari",
+                  "color":"#C00000"
+               },
+               {
+                  "constructor":"redbull-racing",
+                  "color":"#0600EF"
+               },
+               {
+                  "constructor":"renault",
+                  "color":"#FFF500"
+               },
+               {
+                  "constructor":"haas",
+                  "color":"#787878"
+               },
+               {
+                  "constructor":"racing-point",
+                  "color":"#F596C8"
+               },
+               {
+                  "constructor":"alpha-tauri",
+                  "color":"#C8C8C8"
+               },
+               {
+                  "constructor":"mclaren",
+                  "color":"#FF8700"
+               },
+               {
+                  "constructor":"alfa-romeo-racing",
+                  "color":"#960000"
+               },
+               {
+                  "constructor":"williams",
+                  "color":"#0082FA"
+               }
+            ],
             "2019":[
                {
                   "constructor":"mercedes",
